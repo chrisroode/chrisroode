@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisroode
 - 👀 I’m interested in Music (music educator by profession), Max/MSP/Jitter, C++, Game Development, Simulation, Deep Learning, Acoustic modeling...
-- 🌱 I’m currently learning the power of project organization.
-- 💞️ I’m looking to collaborate on...conversation...finding my people...apparently not a lot of people are interested in what's under the hood of their computer.
+- 🌱 I’m currently on the edge of huge changes in my career.
+- 💞️ I’m looking to work, collaborate, and finding my people.
 - 📫 How to reach me www.chrisroode.com.
 
 <!---
